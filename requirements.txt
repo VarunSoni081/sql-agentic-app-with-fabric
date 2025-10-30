@@ -1,0 +1,12 @@
+azure-core
+azure-identity
+Flask
+flask-cors
+Flask-SQLAlchemy
+langchain_community
+langchain_openai
+langchain-sqlserver
+langgraph
+pyodbc
+python-dateutil
+python-dotenv
